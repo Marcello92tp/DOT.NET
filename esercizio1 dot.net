@@ -1,0 +1,8 @@
+﻿
+Console.WriteLine("What is your Name?");
+string name = Console.ReadLine();
+
+string word = "Hello";
+string output = string.Join(',', word,name);
+Console.WriteLine(output);
+
