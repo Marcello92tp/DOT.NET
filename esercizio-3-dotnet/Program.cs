@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("inserisci il primo numero");
+Console.WriteLine("inserisci i due numeri");
 string? num1 = Console.ReadLine();
 
 string? num2 = Console.ReadLine();
