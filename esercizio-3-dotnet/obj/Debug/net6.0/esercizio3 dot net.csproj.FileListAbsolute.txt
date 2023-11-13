@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.AssemblyInfo.cs
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.exe
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.deps.json
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.runtimeconfig.json
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.dll
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.pdb
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.dll
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\refint\esercizio3 dot net.dll
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.pdb
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.genruntimeconfig.cache
+C:\Users\PC\Desktop\esercizio3 dot net\esercizio3 dot net\obj\Debug\net6.0\ref\esercizio3 dot net.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.exe
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.deps.json
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.runtimeconfig.json
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\bin\Debug\net6.0\esercizio3 dot net.pdb
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.AssemblyInfo.cs
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\refint\esercizio3 dot net.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.pdb
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\esercizio3 dot net.genruntimeconfig.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio3 dot net\obj\Debug\net6.0\ref\esercizio3 dot net.dll

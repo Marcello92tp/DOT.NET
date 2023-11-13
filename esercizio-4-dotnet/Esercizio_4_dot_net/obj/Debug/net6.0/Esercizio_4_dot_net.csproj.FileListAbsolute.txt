@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\bin\Debug\net6.0\Esercizio_4_dot_net.exe
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\bin\Debug\net6.0\Esercizio_4_dot_net.deps.json
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\bin\Debug\net6.0\Esercizio_4_dot_net.runtimeconfig.json
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\bin\Debug\net6.0\Esercizio_4_dot_net.dll
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\bin\Debug\net6.0\Esercizio_4_dot_net.pdb
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.AssemblyInfo.cs
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.dll
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\refint\Esercizio_4_dot_net.dll
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.pdb
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\Esercizio_4_dot_net.genruntimeconfig.cache
+C:\Users\PC\Desktop\Esercizio_4_dot_net\Esercizio_4_dot_net\obj\Debug\net6.0\ref\Esercizio_4_dot_net.dll
