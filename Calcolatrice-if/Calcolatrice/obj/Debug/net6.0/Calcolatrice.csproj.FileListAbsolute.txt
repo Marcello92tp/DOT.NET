@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.AssemblyInfo.cs
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.exe
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.deps.json
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.runtimeconfig.json
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.dll
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.pdb
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.dll
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\refint\Calcolatrice.dll
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.pdb
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.genruntimeconfig.cache
+C:\Users\PC\Desktop\Calcolatrice\Calcolatrice\obj\Debug\net6.0\ref\Calcolatrice.dll
