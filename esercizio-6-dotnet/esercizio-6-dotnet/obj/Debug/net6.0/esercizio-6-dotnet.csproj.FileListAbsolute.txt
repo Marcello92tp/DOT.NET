@@ -1,0 +1,4 @@
+C:\Users\PC\Desktop\DOT.NET\esercizio-6-dotnet\esercizio-6-dotnet\obj\Debug\net6.0\esercizio-6-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DOT.NET\esercizio-6-dotnet\esercizio-6-dotnet\obj\Debug\net6.0\esercizio-6-dotnet.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-6-dotnet\esercizio-6-dotnet\obj\Debug\net6.0\esercizio-6-dotnet.AssemblyInfo.cs
+C:\Users\PC\Desktop\DOT.NET\esercizio-6-dotnet\esercizio-6-dotnet\obj\Debug\net6.0\esercizio-6-dotnet.csproj.CoreCompileInputs.cache
