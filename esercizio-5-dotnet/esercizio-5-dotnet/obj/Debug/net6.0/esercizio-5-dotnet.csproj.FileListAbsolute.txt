@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\bin\Debug\net6.0\esercizio-5-dotnet.exe
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\bin\Debug\net6.0\esercizio-5-dotnet.deps.json
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\bin\Debug\net6.0\esercizio-5-dotnet.runtimeconfig.json
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\bin\Debug\net6.0\esercizio-5-dotnet.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\bin\Debug\net6.0\esercizio-5-dotnet.pdb
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.AssemblyInfo.cs
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\refint\esercizio-5-dotnet.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.pdb
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\esercizio-5-dotnet.genruntimeconfig.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-5-dotnet\esercizio-5-dotnet\obj\Debug\net6.0\ref\esercizio-5-dotnet.dll
