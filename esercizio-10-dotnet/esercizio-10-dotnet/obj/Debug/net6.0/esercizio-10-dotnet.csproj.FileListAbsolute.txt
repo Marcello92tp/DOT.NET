@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\bin\Debug\net6.0\esercizio-10-dotnet.exe
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\bin\Debug\net6.0\esercizio-10-dotnet.deps.json
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\bin\Debug\net6.0\esercizio-10-dotnet.runtimeconfig.json
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\bin\Debug\net6.0\esercizio-10-dotnet.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\bin\Debug\net6.0\esercizio-10-dotnet.pdb
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.AssemblyInfo.cs
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\refint\esercizio-10-dotnet.dll
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.pdb
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\esercizio-10-dotnet.genruntimeconfig.cache
+C:\Users\PC\Desktop\DOT.NET\esercizio-10-dotnet\esercizio-10-dotnet\obj\Debug\net6.0\ref\esercizio-10-dotnet.dll
